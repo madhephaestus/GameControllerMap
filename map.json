@@ -1,1 +1,16 @@
-{}
+{
+  "Gamesir-T4pro_21FD": {
+    "y-mode": "Y",
+    "l-joy-up-down": "y",
+    "l-joy-left-right": "x",
+    "select": "Select",
+    "r-joy-left-right": "z",
+    "r-trig-button": "Right Thumb",
+    "b-mode": "B",
+    "start": "Start",
+    "l-trig-button": "Left Thumb",
+    "x-mode": "X",
+    "r-joy-up-down": "rz",
+    "a-mode": "A"
+  }
+}
